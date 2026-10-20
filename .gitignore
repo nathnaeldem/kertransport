@@ -1,0 +1,7 @@
+.cpanel_cookies.txt
+*.log
+.DS_Store
+Thumbs.db
+includes/db.php
+sync-*.php
+install.php
